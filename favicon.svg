@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#263339"/><svg x="10.88" y="13.69" width="42.24" height="36.62" viewBox="0 0 449.8 390"><defs>
+<linearGradient id="mk-tiles" gradientUnits="userSpaceOnUse" x1="405" y1="150" x2="462" y2="228"><stop offset="0" stop-color="#0AF3B4"/><stop offset="1" stop-color="#22D3F7"/></linearGradient>
+</defs>
+<g fill="#04F9AA" transform="translate(-128.6 -147.6)">
+<rect x="536.65" y="154.6" width="41.75" height="285.5" rx="5.5"/>
+<rect x="487.9" y="154.6" width="41.75" height="285.5" rx="5.5"/>
+<rect x="177.35" y="398.35" width="352.3" height="41.75" rx="5.5"/>
+<rect x="177.35" y="154.6" width="41.75" height="285.5" rx="5.5"/>
+<rect x="226.1" y="300.85" width="41.75" height="139.25" rx="5.5"/>
+<rect x="226.1" y="203.35" width="41.75" height="41.75" rx="5.5"/>
+<rect x="226.1" y="252.1" width="41.75" height="41.75" rx="5.5"/>
+<rect x="292.9" y="252.1" width="90.5" height="41.75" rx="5.5"/>
+<rect x="292.9" y="252.1" width="41.75" height="139.25" rx="5.5"/>
+<rect x="341.65" y="252.1" width="41.75" height="188" rx="5.5"/>
+<rect x="317.35" y="198.9" width="41.75" height="41.75" rx="5.5"/>
+<rect x="390.4" y="252.1" width="90.5" height="41.75" rx="5.5"/>
+<rect x="390.4" y="252.1" width="41.75" height="188" rx="5.5"/>
+<rect x="439.15" y="252.1" width="41.75" height="188" rx="5.5"/>
+<rect x="128.6" y="252.1" width="41.75" height="285.5" rx="5.5"/>
+</g>
+<g fill="url(#mk-tiles)" transform="translate(-75.47 -147.6) skewX(-15.483)">
+<rect x="401.9" y="147.6" width="39.1" height="38.4" rx="2.2"/>
+<rect x="445.3" y="164" width="21.95" height="22" rx="2.2"/>
+<rect x="401.9" y="191.8" width="22" height="22" rx="2.2"/>
+<rect x="428.15" y="191.8" width="39.1" height="38.4" rx="2.2"/>
+</g></svg></svg>
